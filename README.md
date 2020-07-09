@@ -1,1 +1,1 @@
-![gif from nerdy.dev](//storage.googleapis.com/atoms-sandbox.google.com.a.appspot.com/argyleink-sm3.gif)
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
